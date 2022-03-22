@@ -38,20 +38,20 @@
         
 
         img {
-          width: 1034px;
-            height: 825.5px;
+          width: 834px;
+            height: 625.5px;
           margin-left: 2em;
-          margin-top: 1em;
+          margin-top: 2em;
         }
         h2{
             margin-top: 15px;
             color: #fff;
-            font-size: 33px;
-            line-height: 47px;
+            font-size: 30px;
+            line-height: 37px;
             font-family: 'Montserrat';
             font-style: normal;
             font-weight: 400;
-            width: 890px;
+            width: 910px;
             height: 56px;
         }
         button {
@@ -60,15 +60,15 @@
                 padding: 10px;
                 color: white;
                 margin-top: 180px;
-                width: 280px;
-                height: 80px;
-                font-size: 30px;
+                width: 180px;
+                height: 50px;
+                font-size: 16px;
             }
             h4 {
                 font-family: 'Montserrat';
                 font-style: normal;
                 font-weight: 500;
-                font-size: 75px;
+                font-size: 50px;
                 line-height: 55px;
                 color: #FFFFFF;
                 margin-top: 200px;

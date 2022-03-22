@@ -1,6 +1,8 @@
 <template>
 <div>
   <Hero/>
+  <Story/>
+  <Offer/>
 
 </div>
 </template>
